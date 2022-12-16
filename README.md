@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shalabyelectronics
+- 👋 Hi, I’m Mohamed Shalaby 
 - 👀 I’m interested in Solving problems
 - 🌱 I’m currently learning front end web dev
 - 📫 How to reach me shalabycode@gmail.com
