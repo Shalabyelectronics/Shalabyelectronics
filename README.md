@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end web dev
 - 📫 How to reach me shalabycode@gmail.com
 - 🖥My YouTube Channel [@ShalabyCode](https://www.youtube.com/channel/UCMEh7C0J0LnFG0fHZcQ-y2Q)
-- 🌐My coming soon website [www,shalabycode.com](https://www.shalabycode.com)
+- 🌐My coming soon website [www.shalabycode.com](https://www.shalabycode.com)
 
 <!---
 Shalabyelectronics/Shalabyelectronics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
