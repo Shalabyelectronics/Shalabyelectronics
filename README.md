@@ -58,7 +58,7 @@ I believe consistency beats intensity. Small steps, repeated daily, compound int
 
 - 💼 LinkedIn: [in/mhdshalaby](https://www.linkedin.com/in/mhdshalaby/)
 - 🎥 YouTube: [@ShalabyCode](https://www.youtube.com/channel/UCMEh7C0J0LnFG0fHZcQ-y2Q)
-- 🌐 Website: coming soon at [shalabycode.com](https://www.shalabycode.com)
+- 🌐 Website: [shalabycode.dev](https://shalabycode.dev)
 - 📧 Email: shalabycode@gmail.com
 
 ---
