@@ -10,7 +10,7 @@
 
 I'm a **self-taught developer** who builds something every single day. I started from curiosity — tinkering, breaking things, figuring out how they work — and turned that into a daily practice of writing code and shipping projects.
 
-My foundation is **Python & Flask** on the backend: REST APIs, authentication, database relationships, and deployment. Right now I'm leveling up on the **front end** — diving deep into **React** and modern web development to become a well-rounded full-stack developer.
+My first steps into code were with **Python** a couple of years ago, but I found where I really wanted to build: the **front end**. Today my focus is **JavaScript and React** — building responsive, interactive interfaces and working with APIs, and deepening my skills through hands-on projects and a front-end bootcamp.
 
 I believe consistency beats intensity. Small steps, repeated daily, compound into things you couldn't have built in one sprint.
 
@@ -18,17 +18,15 @@ I believe consistency beats intensity. Small steps, repeated daily, compound int
 
 ### 🔧 What I build
 
-- 🌐 **Web apps & REST APIs** — Flask backends with auth, protected routes, and real database models
 - 🎨 **Responsive websites** — built from scratch with HTML, CSS, and JavaScript
-- ⚛️ **Front-end projects** — currently building with React as I grow into full-stack
+- ⚛️ **React apps** — interactive, component-based user interfaces
+- 🔌 **API-driven apps** — fetching and displaying live data from public APIs
 - 📚 **Learning-in-public projects** — I document what I learn through code, not just notes
 
 ---
 
 ### 🛠️ Tech I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
